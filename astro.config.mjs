@@ -19,11 +19,7 @@ export default defineConfig({
 				},
 				{
 					label: 'Notes',
-					items: [
-						{ label: 'Day 2 Summary', slug: 'notes/day-2-Summary' },
-						{ label: 'Day 3 Summary', slug: 'notes/day-3-Summary' },
-						{ label: 'Day 4 Summary', slug: 'notes/day-4-summary' },
-					],
+					autogenerate: {directory: 'docs/notes' },
 				},
 				{
 					label: 'Reference',

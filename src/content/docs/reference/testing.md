@@ -2,7 +2,6 @@
 title: Lacy's Software Testing
 description: A guide to what I've learned in Jeff's class for Unit Testing
 ---
----
 
 # About Unit Testing
  
