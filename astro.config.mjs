@@ -24,6 +24,7 @@ export default defineConfig({
 						{ label: 'Day 3 Summary', slug: 'notes/day-3-Summary' },
 						{ label: 'Day 4 Summary', slug: 'notes/day-4-summary' },
 					],
+				},
 				{
 					label: 'Reference',
 					autogenerate: { directory: 'reference' },
