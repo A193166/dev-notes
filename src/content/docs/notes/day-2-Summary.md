@@ -1,7 +1,12 @@
 --- 
-title: Day 2
-description: Reeeeeeeeeee
+title: Day 2 Class Summary
+description: Day 2 Notes
+date: "07/30/2024"
 ---
+## Music: 
+    • Roundabout - Yes
+    • Owner of a lovely heart - Yes
+    • Video Killed the Radio Star - The Buggles 
 
 ## Programming Concepts: 
     • Functional programming: Clojure, immutable data, first-class functions
