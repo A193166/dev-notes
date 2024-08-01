@@ -1,7 +1,6 @@
 --- 
-title: Day 2 Class Summary
-description: Day 3 notes
-date: "07/30/2024"
+title: Day 2
+description: Reeeeeeeeeee
 ---
 
 # Programming Concepts: 
@@ -33,7 +32,7 @@ date: "07/30/2024"
     • Microsoft Learn courses
     • Mastering Development Tools course
     • The Twelve-Factor App methodology (12factor.net)
-    
+
 # Additional Concepts: 
     • DevOps
     • Domain Driven Design
