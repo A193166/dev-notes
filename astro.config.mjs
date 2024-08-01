@@ -18,7 +18,7 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'reference',
+					label: 'Notes',
 					autogenerate: { directory: 'reference' },
 				},
 			],
